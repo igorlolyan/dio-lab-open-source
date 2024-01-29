@@ -9,6 +9,22 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
+## Índice
+1. [Objetivo](#objetivo-)
+2. [Ferramentas](#ferramentas)
+3. [Percurso](#percurso)
+   1. [Introdução ao Lab](#etapa-01)
+   2. [Formas de Contribuir num Projeto Open Source](#etapa-02)
+   3. [Desenvolvendo e Enviando uma Contribuição](#etapa-03)
+   4. [Dicas e Materiais de Apoio](#etapa-04)
+4. [Desafio: Profile README](#desafio-profile-readme)
+   1. [Instruções (PT/BR)](#instruções-ptbr)
+   2. [Instructions (EN/US)](#instructions-enus)
+   3. [Instrucciones (ES/ES)](#instrucciones-eses)
+   4. [Utilitários](#utilitários)
+5. [Contribua](#contribua)
+6. [Membros da comunidade que já contribuíram](#membros-da-comunidade-que-já-contribuíram)
+
 ## Objetivo 🎯
 Aprender o básico sobre contribuição no GitHub.
 
